@@ -1,7 +1,7 @@
 # VOGDataExplorer
 Is a tool to visualize vog data with eye and head movement recordings and mark different types of events on them. Either a Time column or the samplerate has to be provided
 
-
+```
 app = VOGDataExplorer.MarkData(data)
 app = VOGDataExplorer.MarkData(data, samplerate)
 app = VOGDataExplorer.MarkData(xdata, ydata, samplerate)
