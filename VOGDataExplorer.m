@@ -3,7 +3,7 @@ classdef VOGDataExplorer < matlab.apps.AppBase
     % and head movement recordings and mark different types of
     % events on them. Either a Time column or the samplerate has to
     % be provided
-    %
+    % TEST FOR GIT
     %
     %   app = VOGDataExplorer.MarkData(data)
     %   app = VOGDataExplorer.MarkData(data, samplerate)
