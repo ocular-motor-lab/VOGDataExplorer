@@ -3,7 +3,7 @@ classdef VOGDataExplorer < matlab.apps.AppBase
     % and head movement recordings and mark different types of
     % events on them. Either a Time column or the samplerate has to
     % be provided
-    % TEST FOR GIT
+    % 
     %
     %   app = VOGDataExplorer.MarkData(data)
     %   app = VOGDataExplorer.MarkData(data, samplerate)
@@ -1780,7 +1780,7 @@ classdef VOGDataExplorer < matlab.apps.AppBase
             %  VELOCITY MEASURES
             %  - EyeLink documentation, p. 345-361
             %  - Engbert, R. & Kliegl, R. (2003) Binocular coordination in
-            %    microsaccades. In:  J. HyšnŠ, R. Radach & H. Deubel (eds.)
+            %    microsaccades. In:  J. HyÂšnÂŠ, R. Radach & H. Deubel (eds.)
             %    The Mind's Eyes: Cognitive and Applied Aspects of Eye Movements.
             %    (Elsevier, Oxford, pp. 103-117)
             %
